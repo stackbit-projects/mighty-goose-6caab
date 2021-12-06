@@ -7,7 +7,7 @@
         "letterSpacing": "normal"
     },
     "h2": {
-        "weight": "bold",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal"
