@@ -2,6 +2,8 @@
 title: Home
 layout: PageLayout
 sections:
+    - type: AlertSection
+    body: Hello!
   - type: HeroSection
     elementId: ''
     colors: colors-a
