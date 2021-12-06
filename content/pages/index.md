@@ -2,7 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: Alert
+  - type: AlertSection
   - type: HeroSection
     elementId: ''
     colors: colors-a
