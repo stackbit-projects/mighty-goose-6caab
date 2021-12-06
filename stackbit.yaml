@@ -23,10 +23,4 @@ contentModels:
     newFilePath: 'blog/{slug}.md'
   Person:
     newFilePath: 'team/{slug}.json'
-name: AlertSection
-label: Alert Section
-groups:
-  - sectionComponent
-fields:
-  - type: text
-    name: body
+
