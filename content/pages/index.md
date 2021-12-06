@@ -2,7 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-
   - type: HeroSection
     elementId: ''
     colors: colors-a
