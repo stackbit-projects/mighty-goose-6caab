@@ -66,5 +66,9 @@ sections:
           - mb-8
       actions:
         justifyContent: flex-start
+  - body: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    type: AlertSection
 layout: PageLayout
 ---
