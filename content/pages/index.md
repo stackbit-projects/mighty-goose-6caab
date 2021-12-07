@@ -25,7 +25,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/hero-image.png
+      url: /images/about.jpg
       altText: Hero section image
     styles:
       self:
@@ -110,8 +110,8 @@ sections:
   - elementId: ''
     colors: colors-b
     quote: >-
-      # Testing code editor. Test 2. It's great to see someone taking action while still maintaining a
-      sustainable fish supply.
+      # Testing code editor. Test 2. It's great to see someone taking action
+      while still maintaining a sustainable fish supply.
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
